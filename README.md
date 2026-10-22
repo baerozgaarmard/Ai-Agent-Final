@@ -7,7 +7,7 @@ or anywhere with Docker/Python.
 ## Live demo
 
 - **Live:** https://ai-agent-final-reet.onrender.com
-- GitHub: https://github.com/LUFICR/Ai-Agent-Final
+- GitHub: https://github.com/baerozgaarmard/Ai-Agent-Final
 - Local: see [README_LOCAL.md](README_LOCAL.md)
 
 ## What it is
