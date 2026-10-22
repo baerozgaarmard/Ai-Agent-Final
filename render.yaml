@@ -2,7 +2,7 @@ services:
   - type: web
     name: ai-agent-final
     runtime: docker
-    repo: https://github.com/LUFICR/Ai-Agent-Final
+    repo: https://github.com/baerozgaarmard/Ai-Agent-Final
     plan: free
     region: oregon
     dockerContext: .
